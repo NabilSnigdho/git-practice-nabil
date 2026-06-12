@@ -1,5 +1,5 @@
-Git Practice Project
+# Git Practice Project
 
-S. Mahmud Nabil
+**Author**: S. Mahmud Nabil
 
 A simple Python project that runs basic arithmetic operations.
